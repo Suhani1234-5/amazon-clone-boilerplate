@@ -1,0 +1,9 @@
+nav div{
+    display:inline;
+    word-spacing : 10px;
+    background-color: black;
+}
+.mainwebsite{
+    display:inline;
+    background-color: bisque;
+}
